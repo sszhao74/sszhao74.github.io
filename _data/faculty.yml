@@ -1,0 +1,9 @@
+- name: John Doe
+  position: Professor
+  bio: John Doe is a renowned professor with expertise in computer science.
+  image: /assets/img/prof_pic_color.png
+
+- name: Jane Smith
+  position: Associate Professor
+  bio: Jane Smith specializes in artificial intelligence and machine learning.
+  image: /assets/img/prof_pic_color.png

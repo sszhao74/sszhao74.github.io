@@ -1,0 +1,11 @@
+- name: Alice Johnson
+  lab: Lab A
+  research_topic: Machine Learning
+  bio: Alice Johnson is a dedicated student pursuing a degree in computer science.
+  image: /assets/img/1.jpg
+
+- name: Bob Brown
+  lab: Lab B
+  research_topic: Artificial Intelligence
+  bio: Bob Brown is a student with a focus on artificial intelligence and machine learning.
+  image: /assets/img/2.jpg

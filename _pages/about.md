@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# KLIC - HCI Group at City University of Hong Kong
-
 KLIC (Kowloon Interaction Center) is an HCI (Human-Computer Interaction) group at City University of Hong Kong. We organize regular bi-weekly activities for the labs and students within the organization. These activities include various workshops and seminars aimed at fostering a collaborative and learning environment.
 
 ## History

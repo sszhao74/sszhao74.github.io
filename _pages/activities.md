@@ -9,11 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## Activities
-
 {% for activity in site.data.activities %}
 - **{{ activity.title }}**  
-  *{{ activity.date }}*  
-  {{ activity.description }}
-  *Category: {{ activity.category }}*
+  *{{ activity.date }}* *Category: {{ activity.category }}* 
+  {{ activity.description }} 
 {% endfor %}
