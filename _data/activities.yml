@@ -1,0 +1,19 @@
+- title: "Introduction to HCI Workshop"
+  date: "2025-02-01"
+  description: "An introductory workshop on Human-Computer Interaction (HCI) concepts and principles."
+  category: "workshop"
+
+- title: "Advanced HCI Seminar"
+  date: "2025-02-15"
+  description: "A seminar on advanced topics in HCI, including interaction design and user experience."
+  category: "seminar"
+
+- title: "User Research Techniques Workshop"
+  date: "2025-03-01"
+  description: "A hands-on workshop on various user research techniques used in HCI."
+  category: "workshop"
+
+- title: "Design Thinking Workshop"
+  date: "2025-03-15"
+  description: "A workshop on design thinking methodologies and their application in HCI."
+  category: "workshop"

@@ -2,17 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>City University of Hong Kong</a>. Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong, China
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,8 +24,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# KLIC - HCI Group at City University of Hong Kong
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+KLIC (Kowloon Interaction Center) is an HCI (Human-Computer Interaction) group at City University of Hong Kong. We organize regular bi-weekly activities for the labs and students within the organization. These activities include various workshops and seminars aimed at fostering a collaborative and learning environment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## History
+Established in 2024, KLIC was founded by a group of dedicated faculty members (in alphabetical order):
+* Prof. Liu Can
+* Prof. Lu Zhicong
+* Prof. Luo Yuhan
+* Prof. Shengdong Zhao
+* Prof. Zhu Kening
+
+As the group evolved, Prof. Zhang Xiaoyu joined the community while Prof. Lu Zhicong moved on to new opportunities.
+
+## Mission
+KLIC's primary mission is to build a vibrant community for HCI researchers at CityU. By bringing together faculty members, research staff, and students interested in Human-Computer Interaction, we create an environment that encourages:
+* Knowledge sharing and cross-lab collaboration
+* Research innovation and exploration
+* Professional development opportunities
+* Peer learning and mentorship
+* Academic discourse and idea exchange
+
+Our bi-weekly activities serve as a platform for members to present their research, learn from peers, and explore potential collaborations within the HCI domain.
