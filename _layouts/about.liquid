@@ -41,9 +41,9 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        <a href="{{ '/activities/' | relative_url }}" style="color: inherit">Activities</a>
       </h2>
-      {% include news.liquid limit=true %}
+      {% include latest_activities.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
@@ -63,7 +63,7 @@ layout: default
     {% endif %}
 
     <!-- Social -->
-    {% if page.social %}
+    {% comment %} {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
@@ -73,6 +73,6 @@ layout: default
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
-    {% endif %}
+    {% endif %} {% endcomment %}
   </article>
 </div>

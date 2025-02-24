@@ -1,0 +1,30 @@
+<div class="news">
+  {% if site.data.activities != blank %}
+    {% assign activities_size = site.data.activities | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and page.activities.scrollable and activities_size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+        {% assign activities = site.data.activities | reverse %}
+        {% if include.limit and page.activities.limit %}
+          {% assign activities_limit = page.activities.limit %}
+        {% else %}
+          {% assign activities_limit = activities_size %}
+        {% endif %}
+        {% for item in activities limit: activities_limit %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <td>
+              {{ item.title }}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No activities so far...</p>
+  {% endif %}
+</div>
