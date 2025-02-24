@@ -1,7 +1,7 @@
 ---
 layout: page
-title: resources
-nav: true
+title: Resources
+nav: false
 nav_order: 8
 dropdown: true
 children:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activities
+title: Activities
 permalink: /activities/
 description: activities of KLIC
 nav: true
@@ -9,8 +9,16 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-{% for activity in site.data.activities %}
-- **{{ activity.title }}**  
-  *{{ activity.date }}* *Category: {{ activity.category }}* 
-  {{ activity.description }} 
-{% endfor %}
+{% assign activities = site.data.activities %}
+{% assign sorted_activities = activities | sort: 'date' | reverse %}
+
+{% if sorted_activities.size > 0 %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for activity in sorted_activities %}
+      {% include activity.liquid %}
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No activities found.</p>
+{% endif %}
+

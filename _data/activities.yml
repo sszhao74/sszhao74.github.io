@@ -1,19 +1,42 @@
-- title: "Introduction to HCI Workshop"
-  date: "2025-02-01"
-  description: "An introductory workshop on Human-Computer Interaction (HCI) concepts and principles."
+- title: "Research Sharing & Idea Brainstorming"
+  date: "2024-04-22"
+  description: |
+    - Research Sharing by Nichang Xiong "PetPresence: Investigating the Integration of Real-World Pet Activities in Virtual Reality"
+    - Idea brainstorming about "Privacy concerns in Human-LLM interactions"
   category: "workshop"
+  img: 
 
 - title: "Advanced HCI Seminar"
-  date: "2025-02-15"
+  date: "2024-02-15"
   description: "A seminar on advanced topics in HCI, including interaction design and user experience."
   category: "seminar"
+  img: 
 
 - title: "User Research Techniques Workshop"
-  date: "2025-03-01"
+  date: "2024-03-01"
   description: "A hands-on workshop on various user research techniques used in HCI."
   category: "workshop"
+  img:
+
 
 - title: "Design Thinking Workshop"
-  date: "2025-03-15"
+  date: "2024-03-15"
   description: "A workshop on design thinking methodologies and their application in HCI."
   category: "workshop"
+  img: 
+
+
+- title: "CHI Citation Analysis and research impact discussion"
+  date: "2025-02-07"
+  description: |
+    - Prof. Shen shared the "Analysis of 100 most cited ACM CHI papers in the last 43 years" and lead a discussion on how to create impactful works. 
+    - Held an interactive session soliciting interests of seminar topics from all participants. 
+
+  category: "workshop"
+  img: 
+
+- title: "Graduate Survival Kit - Interpersonal Skills."
+  date: "2025-02-21"
+  description: "Faculty and PhD students share questions and insights on building relationships with supervisors, collaborators, “big people” and more. "
+  category: "workshop"
+  img: /assets/img/activities/20250221.JPG

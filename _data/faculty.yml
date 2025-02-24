@@ -1,9 +1,101 @@
-- name: "John Doe:"
-  position: "Professor"
-  bio: "John Doe is a renowned professor with expertise in computer science."
-  image: /assets/img/prof_pic_color.png
+- name: "Leung Pok Yin Victor"
+  position: "Assistant Professor"
+  lab: ""
+  personal_url: "https://www.victorleung.info/"
+  lab_url: "https://sweb.cityu.edu.hk/canliu/team.html"
+  gs_url: "https://scholar.google.ca/citations?user=heZKUKgAAAAJ&hl=en"
+  bio: |
+        Victor Leung is a researcher, educator, and maker working at the intersection of art, technology, and architecture. Victor’s practice focuses on robotic fabrication, computational design, and developing custom machines, tools, and end effectors for creative production. Victor is an Assistant Professor at the School of Creative Media, where he teaches courses on interactive machines, computational design, and digital fabrication.
+ 
+        Central to his work is a belief that automation should serve to enhance human potential, not replace it. While much of his research focuses on advancing the precision and complexity of robotic fabrication, its broader aim is to address a persistent issue in society: the burden of repetitive, physically taxing labour. Industries like construction and manufacturing are still marked by tedious, manual work that limits human potential. By enabling machines to take on these repetitive roles, human intelligence can focus on higher-level, creative, and problem-solving tasks. In this way, automation is not a threat but as an opportunity to reshape our relationship with work and, ultimately, to design better environments for ourselves.
 
-- name: Jane Smith
+        Victor holds a Doctor of Science from ETH Zurich, where he developed new methods for robotic timber assembly using distributed robotic tools. His research explored how the design-to-assembly process can be transformed through robotics, addressing challenges like high assembly forces, precise alignment, and the simultaneous closure of integral timber joints. This work contributed to broader conversations on non-repetitive robotic assembly and earned recognition, including the Best Paper Award at CAADRIA 2021. Victor also completed a Master of Science in Architectural Studies (Design and Computation) at MIT and a Bachelor of Arts in Architectural Studies at the University of Hong Kong. His experience spans technical consulting for digital artists and architects, contributing to kinetic installations, custom robotic machines, and 3D-printed structures exhibited at venues such as the Venice Biennale and Science Gallery Melbourne. He has taught digital fabrication, computational design, and robotic assembly at institutions including ETH Zurich, MIT, the University of Hong Kong, the Singapore University of Technology and Design, and workshops at international venues such as the AA Visiting School and the ACADIA conference. He believes in hands-on, curiosity-driven learning, encouraging students to engage with the tools and technologies that shape our built environment.
+  researchInterests: "#Digital Fabrication / #Robotic Assembly / #Design to Production / #Task and Motion Planning  / #Distributed Robotic Tools / #Parametric Design / #CAD CAM "
+  image: /assets/img/people/faculty/victor_leung.png
+
+- name: "Liu Can"
+  position: "Associate Professor"
+  lab: "ERFI Lab"
+  personal_url: "https://sweb.cityu.edu.hk/canliu/index.html"
+  lab_url: "https://sweb.cityu.edu.hk/canliu/team.html"
+  gs_url: "https://scholar.google.fr/citations?user=UnXsivcAAAAJ&hl=en"
+  bio: |
+      Dr Can Liu is a researcher in Human-computer Interaction (HCI). Her research is about designing future interfaces of ubiquitous technologies based on the empirical understanding of the human. Her work explores how to enable more natural and embodied user experiences by combining physical and digital interactivity. She has been using a variety of technologies to prototype novel experiences, including wall-sized displays, mobile surfaces, Internet of Things and Augmented Reality. On one hand, she conducts user experiments to gain scientific understanding of how novel interfaces can be used. On the other hand, she develops new systems for public places and communities to study them in real-world context.
+
+      Can is an international citizen, having lived in six countries across Europe and Asia. Before joining the School of Creative Media, she worked as a postdoctoral researcher at UCLIC in the University College London in the UK. She holds a PhD in HCI obtained from the Université Paris-Sud in France, where she worked at INRIA labs ex)situ and ILDA in collaboration with Telecom ParisTech. Prior to these, she received an MSc degree in Media Informatics at the RWTH Aachen University in Germany. Her work has been published at ACM CHI conferences and received Best Paper and Honourable Mention awards.
+
+  researchInterests: "#Human-Computer Interaction / #Large and multiple surfaces / #Augmented Space / #Voice Interfaces  / #Collaborative Interaction"
+  image: /assets/img/people/faculty/CanLiu.png
+
+- name: Lu Zhicong
+  position: Assistant Professor
+  lab: "Deer Lab"
+  personal_url: "https://luzhc.github.io/"
+  lab_url: "https://luzhc.github.io/people/"
+  gs_url: "https://scholar.google.com/citations?user=xCxyGuwAAAAJ&hl=en"
+  bio: |
+        Dr.Zhicong Lu (陆志聪, Caleb) is an assistant professor of Computer Science at George Mason University. He was an assistant professor at the Department of Computer Science, City University of Hong Kong previously. He finished my PhD in Computer Science under the supervision of Professor Daniel Wigdor. Previously He was a Master of Interdisciplinary Studies of Information and Art Design at Tsinghua University, China, supervised by Professor Ying-Qing Xu and Professor Yuanchun Shi. Before starting my master, He had a bachelor of Electronic Engineering and Game Design at Tsinghua University.
+
+        His research interests lie at the intersection of HCI, social computing, computational social science, and machine learning, especially in studying, designing, and building systems that support social interactions, to enhance trust, engagement, creativity, and knowledge sharing in virtual and physical spaces. He is currently exploring how to leverage emerging media (e.g., livestreaming) and generative AI models for sharing knowledge, enhancing creativity, and safeguarding Intangible Cultural Heritage (ICH).
+  researchInterests: "#Human-Computer Interaction / #Social Computing / #Computational Social Science / #Misinformation  / #Metaverse/Mixed / Reality/Immersive Media"
+  image: /assets/img/people/faculty/zhicongLu.jpg
+
+- name: Luo Yuhan
+  position: Assistant Professor
+  lab: "BiWell Lab"
+  personal_url: "https://yuhanlolo.github.io/me/index.html"
+  lab_url: "https://yuhanlolo.github.io/me/lab.html"
+  gs_url: "https://scholar.google.com/citations?user=TyPGkP8AAAAJ&hl=en"
+  bio: |
+        Dr. Luo's research focuses on Human-Computer Interaction, Health Informatics, and Personal Informatics. Her work seeks to improve individuals' everyday health and well-being through unlocking the potential of ubiquitous computing technologies. She has built multimodal systems (e.g., mobile apps, Alexa skills) to support self-tracking, design interventions to encourage health behaviors, and explore opportunities for utilizing personal data in clinical contexts. Her work encompasses all the phases of human-centered design, including collecting empirical understandings of humans, developing interactive systems, and understanding how people use these systems in real-world settings.
+
+        Prior to joining the Department of Computer Science at CityU, Yuhan earned her Ph.D. in Information Studies at the University of Maryland in 2022, master's in Information Science and Technology at Pennsylvania State University in 2017, and Bachelor of Engineering in Computer Science at Southeast University 2015. Outside academia, Yuhan has worked as a User Experience Researcher Intern at Google and Meta.
+  researchInterests: "#Human-Computer Interaction / #Health Informatics / #Personal Informatics / #Multimodal Interaction"
+  image: /assets/img/people/faculty/yuhanluo.jpg
+
+- name: Zhang Xiaoyu
+  position: Assistant Professor
+  personal_url: "https://xiaoyu-zhang-betsy.github.io/homepage/"
+  gs_url: "https://scholar.google.com/citations?user=2cTSUsQAAAAJ&hl=en"
+  bio: |
+      Xiaoyu Zhang is a researcher at the intersection of computer science and art design. Her research interests broadly encompass data visualization, visual analytics, human-computer interaction (HCI), human-AI collaboration and explainable AI. She particularly focuses on integrating data visualization and artificial intelligence (AI), especially natural language processing (NLP), to explore and exploit knowledge for varies applications in education, smart manufacturing, and human well-being.
+
+      Xiaoyu’s work has been published at top-tier venues such as IEEE TVCG, IEEE VIS, ACM CHI, ACM IUI, IEEE PacificVis, ACL. She also received the Honorable Mention Best Paper Award at IEEE VIS 2022 and has been granted multiple US patents. Xiaoyu has been recognized as the Best Graduate Researcher in the Department of Computer Science at UC Davis. She also served on the organization committee of AI and the Future Factory at AI House Davos 2024 and the 6th Workshop on Visualization for AI Explainability at IEEE VIS 2023.
+
+      Before joining SCM, Xiaoyu was a Postdoctoral Fellow at the ETH AI Center, ETH Zurich. She received her Ph.D. degree in Computer Science from University of California, Davis, her Master’s degree in Computer Science from Zhejiang University, and her bachelor’s degrees in Digital Media Art (Major) and Advertising (Minor) from Xiamen University. In addition to her academic pursuits, Xiaoyu has profound industrial internship and collaboration experience with leading organizations such as Meta, Microsoft Research Asia, Bosch Research, Netease Games, EthonAI, and the US National Institute of Standards and Technology (NIST).
+  researchInterests: "#Data Visualization / #HVisual Analytics / #HCI / #Human-AI Collaboration / #NLP for Education / #Explainable AI"
+  image: /assets/img/people/faculty/ZHANG_Xiaoyu.png
+
+- name: Zhao Shengdong
+  position: Professor
+  lab: "Syteraction Lab"
+  personal_url: "https://shengdongzhao.com/"
+  lab_url: "https://synteraction.org/"
+  gs_url: "https://scholar.google.com/citations?user=HQupC7wAAAAJ&hl=en"
+  bio: |
+        Shengdong (Shen) ZHAO, or 趙盛東 in Chinese, is a full professor at City University of Hong Kong, with a joint appointment between the School of Creative Media and the Department of Computer Science. Prior to his current position, he served as a tenured associate professor at the computer science department of the School of Computing, National University of Singapore.
+
+        Shengdong earned his PhD in computer science from the University of Toronto and holds a master's degree from the School of Information Management & Systems at the University of California, Berkeley. He also completed a dual major in computer science and biology at Linfield College in Oregon, USA. In January 2009, he established the Synteraction Lab (formerly known as the NUS-HCI Lab) at the National University of Singapore.
+
+        Shengdong's research focuses on developing innovative interface tools and applications to enhance user experiences. He has published extensively in top HCI conferences and journals, including ToCHI, CHI, UbiComp, CSCW, UIST, and IUI. Shengdong is also actively involved in bridging the gap between academia and industry, having served as a senior consultant with the Huawei Consumer Business Group.
+
+        His expertise and contributions to the field of Human-Computer Interaction (HCI) have led to his participation in program committees for renowned HCI conferences. Shengdong has also taken on the role of paper co-chair for the ACM SIGCHI conferences in both 2019 and 2020.
+
+        Currently, Shengdong's research interests lie in heads-up computing, which represents the next frontier in wearable intelligent assistants. This emerging interaction paradigm holds great potential for transforming the way we interact with technology. In his free time, Shengdong enjoys reading, running, and exploring the beauty of nature.
+  researchInterests: "#Human-Computer Interaction / #Heads-up Computing  / #Wearable intelligent assistant / #Interaction technique / #Interactive systems"
+  image: /assets/img/people/faculty/shengdongZhao.jpg
+
+- name: Zhu Kening
   position: Associate Professor
-  bio: Jane Smith specializes in artificial intelligence and machine learning.
-  image: /assets/img/prof_pic_color.png
+  lab: "MEI Lab"
+  personal_url: "https://zhukening.wixsite.com/aboutme"
+  lab_url: "https://meilab-hk.github.io/"
+  gs_url: "https://scholar.google.com.sg/citations?user=VbajcAMAAAAJ&hl=en"
+  bio: |
+        Dr Kening Zhu is an Associate Professor at the School of Creative Media. He received his PhD degree from the National University of Singapore, and his bachelor degree on Computer Science from Huazhong University of Science and Technology, China. His research interests cover various topics on human-computer interaction (HCI), including interaction design, tangible user interfaces and rapid prototyping. He is currently conducting research on designing novel interfaces for kids coding education, gesture-based mobile interaction, and smart material for rapid prototyping.
+
+        Zhu has published his research in various conferences and journals, including SIGGRAPH, CHI, ACE, AML, Interacting with Computers etc. He received the first prize of Nokia Ubimedia MindTrek Awards in 2011, and is now serving as a jury member for the aforementioned Awards. In addition, he is a reviewer for many conferences and journals, including SIGCHI, SIGGRAPH, ISMAR, ICEC, Virtual Reality (Springer), Advances in Human-Computer Interaction, and Advances in Software Engineering.
+
+        As a DIY maker, Zhu actively participates in Maker activities such as Singapore Mini Maker Faire to present his work to the public. He also serves on the advisory board of Let’s Code, a Hong Kong NGO, to promote kids coding.
+  researchInterests: "#Human-Computer Interaction / #Interaction Design for Children  / #Mobile Interaction / #Rapid Prototyping / #Tangible User Interfaces"
+  image: /assets/img/people/faculty/KeningZhu.jpg

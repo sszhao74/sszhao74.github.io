@@ -1,0 +1,21 @@
+<div class="col" style="margin-bottom: 24px;">
+    <div class="card h-100 hoverable">
+      <!-- 检查 activity 是否有图片，如果有则包含 figure.liquid 来显示图片 -->
+      {% if activity.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=activity.img
+          sizes = "250px"
+          alt="activity thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h4 class="card-title">{{ activity.title }}</h4>
+        <p class="card-text"><em>{{ activity.date }}</em></p>
+        <p class="card-text">{{ activity.description | markdownify }}</p>
+        <p class="card-text"><strong>Category:</strong> {{ activity.category }}</p>
+      </div>
+    </div>
+</div>

@@ -1,11 +1,311 @@
-- name: Alice Johnson
-  lab: Lab A
-  research_topic: Machine Learning
-  bio: Alice Johnson is a dedicated student pursuing a degree in computer science.
+- name: Jingze Tian
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: PhD Student
   image: /assets/img/1.jpg
 
-- name: Bob Brown
-  lab: Lab B
-  research_topic: Artificial Intelligence
-  bio: Bob Brown is a student with a focus on artificial intelligence and machine learning.
+- name: Xuyu Yang
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Siying HU
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Parakrant Sarkar
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Zhuangze Hou
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Yonglin Chen
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Zhaohui Liang
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Junru Dong
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Yu Zhang
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
   image: /assets/img/2.jpg
+
+- name: Qian Wan
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Siying Hu
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Piaohong Wang
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Huanchen Wang
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Zhiyang Wu
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Jian Ma
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Run Yang
+  lab: Deer Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Ryan Yen
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Felicia Li Feng
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Ethan Zhiyi Rong
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Elise Chenxinran Shen
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Ningjing Tang
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Ankolika De
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Lanjing Liu
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Lanjing Liu
+  lab: Deer Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/2.jpg
+
+- name: Minzhu Zhao
+  lab: BiWell Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Zihao Zhu
+  lab: BiWell Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg 
+
+- name: Xi Zheng
+  lab: BiWell Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Nuwan Janaka
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Postdoctoral Researcher
+  image: /assets/img/2.jpg 
+
+- name: Yunpeng Bai
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Chen Zhou
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Peisen Xu
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant & Part-time Ph.D. Student
+  image: /assets/img/2.jpg
+
+- name: Runze Cai
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant & Part-time PhD Student
+  image: /assets/img/2.jpg
+
+- name: Yue Gu
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Visiting PhD Student
+  image: /assets/img/1.jpg
+
+- name: Luoying Lin
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/2.jpg
+
+- name: Yuxuan Li
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Visiting PhD Student
+  image: /assets/img/1.jpg
+
+- name: Zirui Xiao
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Mphil Student
+  image: /assets/img/2.jpg
+
+- name: Hyeongcheol Kim
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Visiting Researcher
+  image: /assets/img/1.jpg
+
+- name: Youpeng Zhang
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/2.jpg
+
+- name: Qiuyuan Ren
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/1.jpg
+  
+- name: Aochen Jiao
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/2.jpg
+
+- name: Sam Wang
+  lab: Synteraction Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/1.jpg
+
+- name: Xingyu Yang
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Lina Zhang
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Ningchang XIONG
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Tianpei Li
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Haichen Gao
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Qi Zhang
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Qingqin Liu
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Yibin Huai
+  lab: MEI Lab
+  research_topic: HCI
+  bio: PhD Student
+  image: /assets/img/1.jpg
+
+- name: Julian Man Chong Chin
+  lab: MEI Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/1.jpg
+
+- name: Jianhui Yan
+  lab: MEI Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/1.jpg
+
+- name: Shuwen Jiang
+  lab: MEI Lab
+  research_topic: HCI
+  bio: Research Assistant
+  image: /assets/img/1.jpg

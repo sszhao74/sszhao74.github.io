@@ -23,3 +23,114 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+// logo
+.narvbar-brand img {
+  height: 100%; 
+  width: auto;
+  object-fit: contain; 
+}
+
+// custom image size on About page
+.custom-image-size {
+  max-width: 80%; 
+  height: auto; 
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+
+// /* small size device */
+// @media (max-width: 576px) {
+//   .custom-image-size {
+//       max-width: 100%; 
+//   }
+// }
+
+// /* medium size device */
+// @media (min-width: 577px) and (max-width: 992px) {
+//   .custom-image-size {
+//       max-width: 60%; 
+//   }
+// }
+
+// /* large size devide */
+// @media (min-width: 993px) {
+//   .custom-image-size {
+//       max-width: 40%; 
+//   }
+// }
+// customize the profile div size
+.profile {
+  width: 50%; 
+  margin: 0 auto; 
+}
+
+.profile-style {
+  display: flex; /* 使用flexbox布局 */
+  align-items: flex-start; /* 垂直对齐方式为顶部对齐 */
+  margin-bottom: 20px;
+}
+
+.image-container {
+  flex: 1; /* 图片容器占1份空间 */
+}
+
+.info-container {
+  flex: 2; /* 信息容器占2份空间 */
+  margin-right: 20px; /* 右边距20px */
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+/* 确保图片最大宽度不超过容器 */
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* content padding in the people page */
+.people_content {
+  margin: 16px 0;
+  font-weight: 400;
+}
+
+.lablogo_container {
+  display: flex;
+  align-items: center; /* 垂直居中对齐，使图片高度一致 */
+  margin-bottom: 32px;
+}
+
+.lablogo_container img {
+  height: 48px; /* 设置图片高度为48px */
+  margin-right: 10px; /* 给图片之间添加一定的间距 */
+  object-fit: cover; /* 保持图片比例并填充高度 */
+}
+
+.post-title{
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* 让div占满页面宽度 */
+.post_img {
+  width: 100%;
+  /* 去除默认的外边距和内边距 */
+  margin: 0;
+  padding: 0;
+  /* 用于控制内部元素的布局 */
+  display: flex;
+  /* 让子元素垂直排列 */
+  flex-direction: column;
+  /* 让子元素在主轴上居中 */
+  align-items: center;
+}
+
+/* 让图片仅占页面宽度的50% */
+.post_img img {
+  width: 50%;
+  /* 让图片在容器内水平居中 */
+  display: block;
+  margin: 0 auto;
+}
