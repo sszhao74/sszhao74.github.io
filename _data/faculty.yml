@@ -1,3 +1,22 @@
+- name: Zhao Shengdong
+  position: Professor
+  lab: "Syteraction Lab"
+  personal_url: "https://shengdongzhao.com/"
+  lab_url: "https://synteraction.org/"
+  gs_url: "https://scholar.google.com/citations?user=HQupC7wAAAAJ&hl=en"
+  bio: |
+        Shengdong (Shen) ZHAO, or 趙盛東 in Chinese, is a full professor at City University of Hong Kong, with a joint appointment between the School of Creative Media and the Department of Computer Science. Prior to his current position, he served as a tenured associate professor at the computer science department of the School of Computing, National University of Singapore.
+
+        Shengdong earned his PhD in computer science from the University of Toronto and holds a master's degree from the School of Information Management & Systems at the University of California, Berkeley. He also completed a dual major in computer science and biology at Linfield College in Oregon, USA. In January 2009, he established the Synteraction Lab (formerly known as the NUS-HCI Lab) at the National University of Singapore.
+
+        Shengdong's research focuses on developing innovative interface tools and applications to enhance user experiences. He has published extensively in top HCI conferences and journals, including ToCHI, CHI, UbiComp, CSCW, UIST, and IUI. Shengdong is also actively involved in bridging the gap between academia and industry, having served as a senior consultant with the Huawei Consumer Business Group.
+
+        His expertise and contributions to the field of Human-Computer Interaction (HCI) have led to his participation in program committees for renowned HCI conferences. Shengdong has also taken on the role of paper co-chair for the ACM SIGCHI conferences in both 2019 and 2020.
+
+        Currently, Shengdong's research interests lie in heads-up computing, which represents the next frontier in wearable intelligent assistants. This emerging interaction paradigm holds great potential for transforming the way we interact with technology. In his free time, Shengdong enjoys reading, running, and exploring the beauty of nature.
+  researchInterests: "#Human-Computer Interaction / #Heads-up Computing  / #Wearable intelligent assistant / #Interaction technique / #Interactive systems"
+  image: /assets/img/people/faculty/shengdongZhao.jpg
+
 - name: "Leung Pok Yin Victor"
   position: "Assistant Professor"
   lab: ""
@@ -65,25 +84,6 @@
       Before joining SCM, Xiaoyu was a Postdoctoral Fellow at the ETH AI Center, ETH Zurich. She received her Ph.D. degree in Computer Science from University of California, Davis, her Master’s degree in Computer Science from Zhejiang University, and her bachelor’s degrees in Digital Media Art (Major) and Advertising (Minor) from Xiamen University. In addition to her academic pursuits, Xiaoyu has profound industrial internship and collaboration experience with leading organizations such as Meta, Microsoft Research Asia, Bosch Research, Netease Games, EthonAI, and the US National Institute of Standards and Technology (NIST).
   researchInterests: "#Data Visualization / #HVisual Analytics / #HCI / #Human-AI Collaboration / #NLP for Education / #Explainable AI"
   image: /assets/img/people/faculty/ZHANG_Xiaoyu.png
-
-- name: Zhao Shengdong
-  position: Professor
-  lab: "Syteraction Lab"
-  personal_url: "https://shengdongzhao.com/"
-  lab_url: "https://synteraction.org/"
-  gs_url: "https://scholar.google.com/citations?user=HQupC7wAAAAJ&hl=en"
-  bio: |
-        Shengdong (Shen) ZHAO, or 趙盛東 in Chinese, is a full professor at City University of Hong Kong, with a joint appointment between the School of Creative Media and the Department of Computer Science. Prior to his current position, he served as a tenured associate professor at the computer science department of the School of Computing, National University of Singapore.
-
-        Shengdong earned his PhD in computer science from the University of Toronto and holds a master's degree from the School of Information Management & Systems at the University of California, Berkeley. He also completed a dual major in computer science and biology at Linfield College in Oregon, USA. In January 2009, he established the Synteraction Lab (formerly known as the NUS-HCI Lab) at the National University of Singapore.
-
-        Shengdong's research focuses on developing innovative interface tools and applications to enhance user experiences. He has published extensively in top HCI conferences and journals, including ToCHI, CHI, UbiComp, CSCW, UIST, and IUI. Shengdong is also actively involved in bridging the gap between academia and industry, having served as a senior consultant with the Huawei Consumer Business Group.
-
-        His expertise and contributions to the field of Human-Computer Interaction (HCI) have led to his participation in program committees for renowned HCI conferences. Shengdong has also taken on the role of paper co-chair for the ACM SIGCHI conferences in both 2019 and 2020.
-
-        Currently, Shengdong's research interests lie in heads-up computing, which represents the next frontier in wearable intelligent assistants. This emerging interaction paradigm holds great potential for transforming the way we interact with technology. In his free time, Shengdong enjoys reading, running, and exploring the beauty of nature.
-  researchInterests: "#Human-Computer Interaction / #Heads-up Computing  / #Wearable intelligent assistant / #Interaction technique / #Interactive systems"
-  image: /assets/img/people/faculty/shengdongZhao.jpg
 
 - name: Zhu Kening
   position: Associate Professor
