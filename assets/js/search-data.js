@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-successful-klic-retreat-facilitates-collaboration-and-knowledge-exchange",
+        },{id: "post-memorable-moments-klic-students-amp-faculty-shine-at-chi-2025-in-yokohama",
+      
+        title: "Memorable Moments—— KLIC Students &amp; Faculty Shine at CHI 2025 in Yokohama 🌟...",
+      
+      description: "Memorable Moments—— KLIC Students &amp; Faculty Shine at CHI 2025 in Yokohama 🌟",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/CHI-Moment/";
+        
+      },
+    },{id: "post-successful-klic-retreat-facilitates-collaboration-and-knowledge-exchange",
       
         title: "Successful KLIC Retreat Facilitates Collaboration and Knowledge Exchange",
       
