@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-memorable-moments-klic-students-amp-faculty-shine-at-chi-2025-in-yokohama",
+        },{id: "post-successful-seminar-explores-emotion-aware-voice-interfaces",
+      
+        title: "Successful Seminar Explores Emotion-Aware Voice Interfaces",
+      
+      description: "Successful Seminar Explores Emotion-Aware Voice Interfaces",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/successful-seminar-explores-emotion-aware-voice-interfaces/";
+        
+      },
+    },{id: "post-memorable-moments-klic-students-amp-faculty-shine-at-chi-2025-in-yokohama",
       
         title: "Memorable Moments—— KLIC Students &amp; Faculty Shine at CHI 2025 in Yokohama 🌟...",
       
