@@ -29,7 +29,7 @@ Prof. Williams delivered a compelling talk titled **“Using Adaptive Experiment
   <img src="/assets/img/posts/20250514/WeChatImage_20250514151409.jpg" alt="" />
 </div>
 
-With over 85 publications and accolades including Best Paper awards and 1st place in the $1M Xprize for experimentation technology, Prof. Williams’ research has impacted over 500,000 users globally. His interdisciplinary work spans computer science, psychology, statistics, and AI, supported by more than $2M in research funding.
+With over 85 publications and accolades including Best Paper awards and 1st place in the 1M dollars Xprize for experimentation technology, Prof. Williams’ research has impacted over 500,000 users globally. His interdisciplinary work spans computer science, psychology, statistics, and AI, supported by more than 2M dollars in research funding.
 
 The **Greater Bay ACM SIGCHI Chapter**, a network of HCI researchers across the Greater Bay Area of China, organized this event to foster knowledge exchange and collaboration. The talk exemplified their mission to connect technology, industry, and humanities through impactful HCI research.
 
