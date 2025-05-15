@@ -19,7 +19,7 @@ Dr. Ma explored how speech signal processing can be utilized to detect emotional
 
 The seminar also touched upon ethical concerns, including potential biases and the broader societal impact of emotionally intelligent systems. Dr. Ma underscored the importance of user-centered design in crafting empathetic and culturally inclusive voice technologies.
 
-For those interested in further exploring this research, Dr. Ma’s academic contributions can be accessed https://scholar.google.com/citations?user=CPH3qsUAAAAJ&hl=en.
+For those interested in further exploring this research, Dr. Ma’s academic contributions can be accessed [here](https://scholar.google.com/citations?user=CPH3qsUAAAAJ&hl=en).
 
 Stay tuned for more discussions on the future of human-computer interaction in upcoming events!
 
