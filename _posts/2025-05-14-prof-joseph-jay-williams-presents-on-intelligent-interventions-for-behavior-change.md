@@ -21,7 +21,7 @@ On May 14, 2025, the **Greater Bay ACM SIGCHI Chapter** hosted a distinguished s
 
 
 <div class="post_img">
-  <img src="/assets/img/posts/20250514/WeChatImage_20250514154222.jpg" alt="" />
+  <img src="/assets/img/posts/20250514/WeChatImage_20250514154222.jpg" alt="" width="500"/>
 </div>
 <br />
 Prof. Williams delivered a compelling talk titled **“Using Adaptive Experimentation to Design Intelligent Interventions for Belief & Behaviour Change.”** He introduced *Intelligent Interventions*—personalized prompts, educational content, and health messages—powered by the **AdaptEx framework**. This innovative system integrates large language models (LLMs), crowdsourcing, and adaptive A/B testing to optimize digital interventions in real time. By transforming interface elements into learning agents, AdaptEx enables rapid experimentation and continuous improvement in user engagement and behavior change. <br />
