@@ -5,7 +5,7 @@ date: 2025-05-08
 description: Successful Seminar Explores Emotion-Aware Voice Interfaces
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/posts/successful-seminar-explores-emotion-aware-voice-interfaces.jpg
+thumbnail: assets/img/posts/20250508/successful-seminar-explores-emotion-aware-voice-interfaces.jpg
 images:
   lightbox2: true
   photoswipe: true
