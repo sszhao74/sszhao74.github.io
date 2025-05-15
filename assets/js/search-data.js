@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-successful-seminar-explores-emotion-aware-voice-interfaces",
+        },{id: "post-prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change",
+      
+        title: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
+      
+      description: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change/";
+        
+      },
+    },{id: "post-successful-seminar-explores-emotion-aware-voice-interfaces",
       
         title: "Successful Seminar Explores Emotion-Aware Voice Interfaces",
       
