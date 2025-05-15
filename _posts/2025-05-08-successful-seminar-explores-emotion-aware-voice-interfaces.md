@@ -5,7 +5,7 @@ date: 2025-05-08
 description: Successful Seminar Explores Emotion-Aware Voice Interfaces
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/posts/successful-seminar-explores-emotion-aware-voice-interfaces.jpg
+thumbnail: /assets/img/posts/successful-seminar-explores-emotion-aware-voice-interfaces.jpg
 images:
   lightbox2: true
   photoswipe: true
@@ -22,9 +22,4 @@ The seminar also touched upon ethical concerns, including potential biases and t
 For those interested in further exploring this research, Dr. Ma’s academic contributions can be accessed [here](https://scholar.google.com/citations?user=CPH3qsUAAAAJ&hl=en).
 
 Stay tuned for more discussions on the future of human-computer interaction in upcoming events!
-
-<div class="post_img">
-  <img src="/assets/img/posts/20250430/1.png" alt="" />
-  <img src="/assets/img/posts/20250430/2.jpg" alt="" />
-</div>
 
