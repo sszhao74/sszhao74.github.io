@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/20250508/successful-seminar-explores-emotion-aware-voice-interfaces.jpg" alt="" />
+  <img src="/assets/img/posts/20250508/successful-seminar-explores-emotion-aware-voice-interfaces.jpg" alt="" width="1000"/>
 </div>
 
 <br />
