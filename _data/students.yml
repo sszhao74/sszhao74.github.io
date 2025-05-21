@@ -16,13 +16,31 @@
   bio: PhD Student
   image: /assets/img/1.jpg
 
-- name: Wengxi Li
+- name: Parakrant Sarkar
   lab: ERFI Lab
   research_topic: HCI
   bio: PhD Student
   image: /assets/img/1.jpg
 
-- name: Yonglin Chen
+- name: Wengxi Li
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: In-coming PhD Student
+  image: /assets/img/1.jpg
+
+- name: Linghang Cai
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: In-coming PhD Student
+  image: /assets/img/1.jpg
+
+- name: Jiaqi Xiao
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Zehuan Wang
   lab: ERFI Lab
   research_topic: HCI
   bio: Research Assistant/Intern
@@ -34,7 +52,19 @@
   bio: Research Assistant/Intern
   image: /assets/img/1.jpg
 
-- name: Junru Dong
+- name: Xinyu Guo
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Xianyi Li
+  lab: ERFI Lab
+  research_topic: HCI
+  bio: Research Assistant/Intern
+  image: /assets/img/1.jpg
+
+- name: Yangyang He
   lab: ERFI Lab
   research_topic: HCI
   bio: Research Assistant/Intern
