@@ -48,6 +48,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change/";
         
       },
+    },{id: "post-klic-members-share-chi-2026-paper-ideas-in-collaborative-session",
+      
+        title: "KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session",
+      
+      description: "KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/klic-members-share-chi-2026-paper-ideas/";
+        
+      },
     },{id: "post-successful-seminar-explores-emotion-aware-voice-interfaces",
       
         title: "Successful Seminar Explores Emotion-Aware Voice Interfaces",
