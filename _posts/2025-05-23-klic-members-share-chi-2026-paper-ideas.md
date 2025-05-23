@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session
-date: 2025-05-08
+date: 2025-05-23
 description: KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session
 tags: formatting images
 categories: sample-posts
