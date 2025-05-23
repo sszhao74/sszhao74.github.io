@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change",
-      
-        title: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
-      
-      description: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change/";
-        
-      },
-    },{id: "post-klic-members-share-chi-2026-paper-ideas-in-collaborative-session",
+        },{id: "post-klic-members-share-chi-2026-paper-ideas-in-collaborative-session",
       
         title: "KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session",
       
@@ -57,6 +46,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/klic-members-share-chi-2026-paper-ideas/";
+        
+      },
+    },{id: "post-prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change",
+      
+        title: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
+      
+      description: "Prof. Joseph Jay Williams Presents on Intelligent Interventions for Behavior Change",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/prof-joseph-jay-williams-presents-on-intelligent-interventions-for-behavior-change/";
         
       },
     },{id: "post-successful-seminar-explores-emotion-aware-voice-interfaces",
