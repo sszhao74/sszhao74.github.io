@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-members-share-chi-2026-paper-ideas-in-collaborative-session",
+        },{id: "post-msra-team-joins-student-presentation-and-feedback-session",
+      
+        title: "MSRA Team Joins Student Presentation and Feedback Session",
+      
+      description: "MSRA Team Joins Student Presentation and Feedback Session",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/msra-team-joins-student-presentation-and-feedback-session/";
+        
+      },
+    },{id: "post-klic-members-share-chi-2026-paper-ideas-in-collaborative-session",
       
         title: "KLIC Members Share CHI 2026 Paper Ideas in Collaborative Session",
       
