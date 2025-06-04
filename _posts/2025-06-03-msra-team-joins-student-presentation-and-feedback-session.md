@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/Image_20250604105015.jpg" alt="" width="2000"/>
+  <img src="/assets/img/Image_20250604105008.jpg" alt="" width="2000"/>
 </div>
 
 <br />
@@ -26,10 +26,6 @@ A group from Microsoft Research Asia (MSRA) recently joined a session featuring 
 - Beibei Shi, Principal Research Program Manager
 - Jinglu Wang, Senior Researcher
 - Yun Wang, Senior Researcher
-
-<div class="post_img">
-  <img src="/assets/img/Image_20250604105008.jpg" alt="" width="1000"/>
-</div>
 
 During the session, several students presented their research ideas and ongoing projects. The MSRA visitors offered feedback, contributing their perspectives and engaging with the presenters.
 
