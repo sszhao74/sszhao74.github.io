@@ -9,8 +9,12 @@
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
       "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
     },
-    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+    "ghcr.io/devcontainers/features/node:1": {
+    "version": "lts"
+  }
+    // "ghcr.io/devcontainers-contrib/features/prettier:1": {}
   },
+  "postCreateCommand": "npm install -g prettier",
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
   "postAttachCommand": "./bin/entry_point.sh",

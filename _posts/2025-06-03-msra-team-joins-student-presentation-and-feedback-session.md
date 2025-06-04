@@ -5,7 +5,7 @@ date: 2025-06-03
 description: MSRA Team Joins Student Presentation and Feedback Session
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/klic-members-share-chi-2026-paper-ideas.jpg
+thumbnail: assets/img/Image_20250604121741.jpg
 images:
   lightbox2: true
   photoswipe: true
