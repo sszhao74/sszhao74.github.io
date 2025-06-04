@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/Image_20250604105015.jpg" alt="" width="1000"/>
+  <img src="/assets/img/Image_20250604105015.jpg" alt="" width="2000"/>
 </div>
 
 <br />
