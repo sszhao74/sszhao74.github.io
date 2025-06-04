@@ -34,15 +34,15 @@ A group from Microsoft Research Asia (MSRA) recently joined a session featuring 
 During the session, several students presented their research ideas and ongoing projects. The MSRA visitors offered feedback, contributing their perspectives and engaging with the presenters.
 
 The session served as a valuable platform for interaction between students and researchers, encouraging thoughtful discussion and reflection. KLIC appreciates the participation of the MSRA team and the time they dedicated to engaging with the student work.
-
+<br>
 <div class="post_img">
   <img src="/assets/img/Image_20250604121741.jpg" alt="" width="1000"/>
 </div>
-
+<br>
 <div class="post_img">
   <img src="/assets/img/Image_20250604121750.jpg" alt="" width="1000"/>
 </div>
-
+<br>
 <div class="post_img">
-  <img src="/assets/img/Image_20250604121757" alt="" width="1000"/>
+  <img src="/assets/img/Image_20250604121757.jpg" alt="" width="1000"/>
 </div>
