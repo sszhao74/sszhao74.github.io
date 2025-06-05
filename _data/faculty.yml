@@ -17,20 +17,6 @@
   researchInterests: "#Human-Computer Interaction / #Heads-up Computing  / #Wearable intelligent assistant / #Interaction technique / #Interactive systems"
   image: /assets/img/people/faculty/shengdongZhao.jpg
 
-- name: Jussi Pekka Holopainen
-  position: Associate Professor
-  lab: ""
-  personal_url: "https://www.scm.cityu.edu.hk/people/holopainen-jussi-pekka"
-  lab_url: ""
-  gs_url: "https://scholar.google.com/citations?user=LMEjiCYAAAAJ&hl=en"
-  bio: |
-        Dr Jussi Holopainen holds a PhD in Digital Game Development from Blekinge Institute of Technology in Sweden. He has been researching game design and gameplay experiences since 1998, having authored or co-authored scores of academic publications and patents. His PhD thesis, Foundations of Gameplay, focused on understanding how to construct conceptual frameworks to aid game design. One of these frameworks is the influential gameplay design patterns approach, which he has developed together with Prof. Staffan Björk. Jussi is a member of the Digital Games Research Association (DiGRA) executive board and has served as a member of several program committees such as Games and Culture, Game Studies, CHI PLAY, and the DiGRA annual conference.
-
-        Before joining City University of Hong Kong in 2021, he was a senior lecturer of Games Computing at University of Lincoln, UK, in the School of Computer Science. Before Lincoln he worked at Centre for Game Design Research, Royal Melbourne Institute of Technology as an associate researcher. He has also served in senior research management positions at the Nokia Research Center (NRC) and has been involved in coordinating several industry and academia collaboration projects.
-        His latest research has focused on principles of game design, playful design, and aesthetics of gameplay.
-  researchInterests: "#Game Design / #Aesthetics of Gameplay / #Interaction Design / #Design Studies / #Research Through Design"
-  image: /assets/img/people/faculty/Jussi.png
-
 - name: Zhu Kening
   position: Associate Professor
   lab: "MEI Lab"
@@ -59,6 +45,21 @@
 
   researchInterests: "#Human-Computer Interaction / #Large and multiple surfaces / #Augmented Space / #Voice Interfaces  / #Collaborative Interaction"
   image: /assets/img/people/faculty/CanLiu.png
+
+- name: Jussi Pekka Holopainen
+  position: Associate Professor
+  lab: ""
+  personal_url: "https://www.scm.cityu.edu.hk/people/holopainen-jussi-pekka"
+  lab_url: ""
+  gs_url: "https://scholar.google.com/citations?user=LMEjiCYAAAAJ&hl=en"
+  bio: |
+        Dr Jussi Holopainen holds a PhD in Digital Game Development from Blekinge Institute of Technology in Sweden. He has been researching game design and gameplay experiences since 1998, having authored or co-authored scores of academic publications and patents. His PhD thesis, Foundations of Gameplay, focused on understanding how to construct conceptual frameworks to aid game design. One of these frameworks is the influential gameplay design patterns approach, which he has developed together with Prof. Staffan Björk. Jussi is a member of the Digital Games Research Association (DiGRA) executive board and has served as a member of several program committees such as Games and Culture, Game Studies, CHI PLAY, and the DiGRA annual conference.
+
+        Before joining City University of Hong Kong in 2021, he was a senior lecturer of Games Computing at University of Lincoln, UK, in the School of Computer Science. Before Lincoln he worked at Centre for Game Design Research, Royal Melbourne Institute of Technology as an associate researcher. He has also served in senior research management positions at the Nokia Research Center (NRC) and has been involved in coordinating several industry and academia collaboration projects.
+        His latest research has focused on principles of game design, playful design, and aesthetics of gameplay.
+  researchInterests: "#Game Design / #Aesthetics of Gameplay / #Interaction Design / #Design Studies / #Research Through Design"
+  image: /assets/img/people/faculty/Jussi.png
+
 
 - name: Lu Zhicong
   position: Assistant Professor
