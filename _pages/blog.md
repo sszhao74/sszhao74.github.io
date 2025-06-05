@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
+title: Activities & Blogs
 nav: true
 nav_order: 2
 pagination:

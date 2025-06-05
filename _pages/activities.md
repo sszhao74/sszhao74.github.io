@@ -3,7 +3,7 @@ layout: page
 title: Activities
 permalink: /activities/
 description: activities of KLIC
-nav: true
+nav: false
 nav_order: 1
 display_categories: [work, fun]
 horizontal: false
