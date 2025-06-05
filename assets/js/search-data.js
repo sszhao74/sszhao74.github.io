@@ -9,15 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-activities",
-          title: "Activities",
-          description: "activities of KLIC",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/activities/";
-          },
-        },{id: "nav-blog",
-          title: "Blog",
+  },{id: "nav-activities-amp-blogs",
+          title: "Activities &amp; Blogs",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -90,6 +83,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/CHI-Moment/";
+        
+      },
+    },{id: "post-graduate-survival-kit-interpersonal-skills",
+      
+        title: "Graduate Survival Kit - Interpersonal Skills.",
+      
+      description: "Graduate Survival Kit - Interpersonal Skills.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/KLIC-Retreat-copy/";
         
       },
     },{id: "post-successful-klic-retreat-facilitates-collaboration-and-knowledge-exchange",
