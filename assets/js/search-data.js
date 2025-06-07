@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-msra-team-joins-student-presentation-and-feedback-session",
+        },{id: "post-klic-session-shares-insights-on-supervision-practices",
+      
+        title: "KLIC Session Shares Insights on Supervision Practices",
+      
+      description: "KLIC Session Shares Insights on Supervision Practices",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/klic-session/";
+        
+      },
+    },{id: "post-msra-team-joins-student-presentation-and-feedback-session",
       
         title: "MSRA Team Joins Student Presentation and Feedback Session",
       
