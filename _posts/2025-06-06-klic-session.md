@@ -17,9 +17,8 @@ images:
   <img src="/assets/img/posts/Image_20250607164453.jpg" alt="" width="1000"/>
 </div>
 
-<br />
 On Friday, May 23, 2025, members of the Kowloon Interaction Center (KLIC) held a session focused on the topic of **“Best Practice in Supervision.”** The session was based on a workshop recently attended by one of the members, conducted by Imperial College London.
-<br>
+<p> </p>
 <div class="post_img">
   <img src="/assets/img/posts/Image_20250607164443.jpg" alt="" width="1000"/>
 </div>
