@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-session-shares-insights-on-supervision-practices",
+        },{id: "post-han-teng-presents-on-visual-touch-integrated-human-machine-interaction",
+      
+        title: "Han Teng Presents on Visual-Touch Integrated Human-Machine Interaction",
+      
+      description: "Han Teng Presents on Visual-Touch Integrated Human-Machine Interaction",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/han-teng-talk/";
+        
+      },
+    },{id: "post-klic-session-shares-insights-on-supervision-practices",
       
         title: "KLIC Session Shares Insights on Supervision Practices",
       
