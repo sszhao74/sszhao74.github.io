@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20250607164453.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20250612201405.jpg" alt="" width="1000"/>
 </div>
 
 On June 11, 2025, **Han Teng**, researcher at the **Institute of Software, Chinese Academy of Sciences**, delivered a talk titled **“Visual-Touch Integrated Human-Machine Collaborative Interaction Platform.”** The session introduced an innovative approach to multi-sensory interaction, with a focus on visual-touch fusion and its role in advancing human-machine-environment collaboration.
