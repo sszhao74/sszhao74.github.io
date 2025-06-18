@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-han-teng-presents-on-visual-touch-integrated-human-machine-interaction",
+        },{id: "post-hci-summer-school-2025-begins-at-kmutnb-bangkok",
+      
+        title: "HCI Summer School 2025 Begins at KMUTNB, Bangkok",
+      
+      description: "HCI Summer School 2025 Begins at KMUTNB, Bangkok",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/hci-summer-school-2025/";
+        
+      },
+    },{id: "post-han-teng-presents-on-visual-touch-integrated-human-machine-interaction",
       
         title: "Han Teng Presents on Visual-Touch Integrated Human-Machine Interaction",
       
