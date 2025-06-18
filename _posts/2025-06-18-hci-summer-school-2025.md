@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20250607164453.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20250618205144.jpg" alt="" width="1000"/>
 </div>
 
 The **HCI Summer School 2025**, supported by **ACM SIGCHI**, is currently taking place at the **Faculty of Information Technology and Digital Innovation, King Mongkut’s University of Technology North Bangkok (KMUTNB)**. Scheduled from **June 16 to 20**, this five-day academic event brings together students, researchers, and guest speakers to explore foundational and emerging topics in Human-Computer Interaction (HCI).
