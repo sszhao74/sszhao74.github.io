@@ -20,7 +20,7 @@ images:
 On June 20, 2025, **Dr. Victor Leung**, Assistant Professor at the **School of Creative Media, City University of Hong Kong**, gave a lecture at the Kowloon Interaction Center (KLIC) titled **“My Journey of Exploration: From Computational Design to Digital Manufacturing and Robot Assembly”.**
 <p><p/>
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20250620212802.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20250620213222.jpg" alt="" width="1000"/>
 </div>
 <p><p/>
 Dr. Leung has taught at leading institutions including **ETH Zurich, MIT, the University of Hong Kong**, and **Singapore University of Technology and Design**, specializing in courses on **computational design, digital manufacturing, and robot assembly.** He has also led advanced workshops at international platforms such as the **AA Visiting School** and the **ACADIA Conference.**
