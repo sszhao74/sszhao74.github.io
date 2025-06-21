@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-hci-summer-school-2025-begins-at-kmutnb-bangkok",
+        },{id: "post-dr-victor-leung-delivers-lecture-at-klic",
+      
+        title: "Dr. Victor Leung Delivers Lecture at KLIC",
+      
+      description: "Dr. Victor Leung Delivers Lecture at KLIC",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/dr-victor-leung-delivers-lecture-at-klic/";
+        
+      },
+    },{id: "post-hci-summer-school-2025-begins-at-kmutnb-bangkok",
       
         title: "HCI Summer School 2025 Begins at KMUTNB, Bangkok",
       
