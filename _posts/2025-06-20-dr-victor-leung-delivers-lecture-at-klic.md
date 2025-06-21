@@ -17,7 +17,7 @@ images:
   <img src="/assets/img/posts/Image_20250620212802.jpg" alt="" width="1000"/>
 </div>
 <p><p/>
-On June 20, 2025, **Dr. Victor Leung**, Assistant Professor at the **School of Creative Media, City University of Hong Kong**, gave a lecture at the Kowloon Interaction Center (KLIC) titled **“My Journey of Exploration: From Computational Design to Digital Manufacturing and Robot Assembly”.**
+On June 20, 2025, __Dr. Victor Leung__, Assistant Professor at the __School of Creative Media, City University of Hong Kong__, gave a lecture at the Kowloon Interaction Center (KLIC) titled **“My Journey of Exploration: From Computational Design to Digital Manufacturing and Robot Assembly”.**
 <p><p/>
 <div class="post_img">
   <img src="/assets/img/posts/Image_20250620213222.jpg" alt="" width="1000"/>
