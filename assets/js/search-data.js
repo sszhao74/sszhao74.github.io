@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong",
       
-      description: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong",
+      description: "On June 24, 2025, KLIC organized a collaborative visit to Microsoft Research Asia (MSRA) in Hong Kong, bringing together researchers, faculty, and students from City University of Hong Kong and MSRA for an afternoon of academic exchange and networking.",
       section: "Posts",
       handler: () => {
         
