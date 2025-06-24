@@ -3,7 +3,7 @@ layout: post
 title: KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong
 date: 2025-06-24
 description: KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong
-tags: research session
+tags: session
 categories: sample-posts
 thumbnail: assets/img/posts/Image_20250624201033.jpg
 images:
