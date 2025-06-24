@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-dr-victor-leung-delivers-lecture-at-klic",
+        },{id: "post-klic-hosts-collaborative-visit-to-microsoft-research-asia-in-hong-kong",
+      
+        title: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong",
+      
+      description: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/klic-hosts-collaborative-visit-to-microsoft-research-asia-in-hong-kong/";
+        
+      },
+    },{id: "post-dr-victor-leung-delivers-lecture-at-klic",
       
         title: "Dr. Victor Leung Delivers Lecture at KLIC",
       
