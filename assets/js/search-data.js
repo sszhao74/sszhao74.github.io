@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-hosts-collaborative-visit-to-microsoft-research-asia-in-hong-kong",
+        },{id: "post-visiting-researcher-from-poland-adam",
+      
+        title: "Visiting Researcher from Poland, Adam",
+      
+      description: "Visiting Researcher from Poland, Adam",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/visiting-researcher-from-poland-adam/";
+        
+      },
+    },{id: "post-klic-hosts-collaborative-visit-to-microsoft-research-asia-in-hong-kong",
       
         title: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong",
       
