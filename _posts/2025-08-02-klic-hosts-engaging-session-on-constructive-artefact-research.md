@@ -16,6 +16,6 @@ images:
 <div class="post_img">
   <img src="/assets/img/posts/session-on-constructive-artefact-research.jpg" alt="" width="1000"/>
 </div>
-
+<p></p>
 On August 1st, 2025, KLIC held a well-attended session titled “Introduction to Constructive/Artefact Research” at the Social Media Lab (SM7001). The event ran from 3:00 to 4:30 PM and welcomed students interested in learning about constructive research approaches and how to develop and evaluate artefacts in academic work.
 Stay tuned for more KLIC events coming soon!
