@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-luoying-s-research-visit-to-poland",
+        },{id: "post-klic-hosts-engaging-session-on-constructive-artefact-research",
+      
+        title: "KLIC Hosts Engaging Session on Constructive/Artefact Research",
+      
+      description: "On August 1st, 2025, KLIC held a well-attended session titled “Introduction to Constructive/Artefact Research” at the Social Media Lab (SM7001).",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/klic-hosts-engaging-session-on-constructive-artefact-research/";
+        
+      },
+    },{id: "post-luoying-s-research-visit-to-poland",
       
         title: "Luoying’s Research Visit to Poland",
       
