@@ -41,17 +41,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/klic-hosts-engaging-session-on-constructive-artefact-research/";
         
       },
-    },{id: "post-luoying-s-research-visit-to-poland",
-      
-        title: "Luoying’s Research Visit to Poland",
-      
-      description: "We are pleased to share that our PhD student, Luoying, recently completed a one-month research visit to Lodz University of Technology in Poland.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/luoyings-research-visit-to-poland/";
-        
-      },
     },{id: "post-visiting-researcher-from-poland-adam",
       
         title: "Visiting Researcher from Poland, Adam",
