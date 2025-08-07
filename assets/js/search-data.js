@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-hosts-engaging-session-on-constructive-artefact-research",
+        },{id: "post-exploring-multimodal-interaction-with-acoustophoretic-interfaces",
+      
+        title: "Exploring Multimodal Interaction with Acoustophoretic Interfaces",
+      
+      description: "On August 7, 2025, KLIC hosted a session titled “Enabling Multimodal Interaction Systems with Acoustophoretic Interfaces”, featuring Dr. Lei Gao, Research Fellow at University College London.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/exploring-multimodal-interaction-with-acoustophoretic-interfaces/";
+        
+      },
+    },{id: "post-klic-hosts-engaging-session-on-constructive-artefact-research",
       
         title: "KLIC Hosts Engaging Session on Constructive/Artefact Research",
       
