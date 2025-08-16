@@ -16,7 +16,7 @@ images:
 <div class="post_img">
   <img src="/assets/img/posts/Image_20250816104129.jpg" alt="" width="1000"/>
 </div>
-
+<p></p>
 On Friday, August 15, 2025, KLIC held a focused session on a topic highly relevant to HCI researchers: how to write the discussion section in HCI papers. The meeting took place at 3:00 PM, with participants joining both in person at CMC 7001 and online via Zoom.
 
 The session aimed to support students preparing submissions for CHI and other major HCI conferences by unpacking the purpose and structure of the discussion section—a critical part of any academic paper. Participants were invited to reflect on how to effectively communicate the implications of their findings, connect results to broader research questions, and position their contributions within the field.
