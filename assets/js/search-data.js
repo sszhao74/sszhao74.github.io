@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-exploring-multimodal-interaction-with-acoustophoretic-interfaces",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-08-15-writing-the-discussion-section-in-hci-papers/";
+        
+      },
+    },{id: "post-exploring-multimodal-interaction-with-acoustophoretic-interfaces",
       
         title: "Exploring Multimodal Interaction with Acoustophoretic Interfaces",
       
