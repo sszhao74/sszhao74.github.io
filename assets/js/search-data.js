@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-klic-session-focuses-on-writing-the-discussion-section-in-hci-papers",
       
-        title: "",
+        title: "KLIC Session Focuses on Writing the Discussion Section in HCI Papers",
       
-      description: "",
+      description: "On Friday, August 15, 2025, KLIC held a focused session on a topic highly relevant to HCI researchers - how to write the discussion section in HCI papers.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-08-15-writing-the-discussion-section-in-hci-papers/";
+          window.location.href = "/blog/2025/writing-the-discussion-section-in-hci-papers/";
         
       },
     },{id: "post-exploring-multimodal-interaction-with-acoustophoretic-interfaces",
