@@ -2,7 +2,7 @@
 layout: post
 title: KLIC Session Focuses on Writing the Discussion Section in HCI Papers
 date: 2025-08-15
-description: On Friday, August 15, 2025, KLIC held a focused session on a topic highly relevant to HCI researchers: how to write the discussion section in HCI papers.
+description: On Friday, August 15, 2025, KLIC held a focused session on a topic highly relevant to HCI researchers - how to write the discussion section in HCI papers.
 tags: research session
 categories: session
 thumbnail: assets/img/posts/Image_20250816104129.jpg
