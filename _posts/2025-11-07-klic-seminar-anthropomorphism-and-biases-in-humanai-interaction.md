@@ -39,7 +39,7 @@ Dr. Reani concluded by discussing the implications of these findings for **respo
 ### About the Speaker  
 <p></p>
 <div class="post_img">
-  <img src="/assets/img/posts/manuele-reani.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/manuele-reani.jpg" alt="" width="300"/>
 </div>
 <p></p>
 Dr. Manuele Reani is an Assistant Professor at the School of Management and Economics, The Chinese University of Hong Kong (Shenzhen). His research focuses on Human–Computer Interaction, Cognitive Science, and AI Design, with particular interest in how intelligent systems influence human cognition, trust, and decision-making.  
