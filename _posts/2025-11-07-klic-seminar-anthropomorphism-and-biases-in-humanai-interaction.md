@@ -33,8 +33,7 @@ The second study explored how anthropomorphic design impacts trust and risk perc
 Dr. Reani concluded by discussing the implications of these findings for **responsible AI design**, emphasizing the importance of calibrating user trust and mitigating bias when developing anthropomorphic decision-support systems.  
 
 **Time:** November 6, 2025 (Thursday), 3:00–4:00 PM (BJT)  
-**Venue:** SM6058, City University of Hong Kong  
-
+**Venue:** SM6058, City University of Hong Kong  <br><br><br>
 
   
 ### About the Speaker  
