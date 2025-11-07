@@ -35,7 +35,8 @@ Dr. Reani concluded by discussing the implications of these findings for **respo
 **Time:** November 6, 2025 (Thursday), 3:00–4:00 PM (BJT)  
 **Venue:** SM6058, City University of Hong Kong  
 
-<p></p>
+
+  
 ### About the Speaker  
 <p></p>
 <div class="post_img">
