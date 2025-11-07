@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-session-focuses-on-writing-the-discussion-section-in-hci-papers",
+        },{id: "post-anthropomorphism-and-biases-in-human-ai-interaction",
+      
+        title: "Anthropomorphism and Biases in Human–AI Interaction",
+      
+      description: "On November 6, 2025, the Kowloon Interaction Design Center (KLIC) at City University of Hong Kong hosted a seminar titled “Anthropomorphism and Biases in Human–AI Interaction.”",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/klic-seminar-anthropomorphism-and-biases-in-humanai-interaction/";
+        
+      },
+    },{id: "post-klic-session-focuses-on-writing-the-discussion-section-in-hci-papers",
       
         title: "KLIC Session Focuses on Writing the Discussion Section in HCI Papers",
       
