@@ -17,8 +17,6 @@ images:
   <img src="/assets/img/posts/Image_20251107170838.jpg" alt="" width="1000"/>
 </div>
 
-# KLIC Seminar: Anthropomorphism and Biases in Human–AI Interaction
-
 On **November 6, 2025**, the **Kowloon Interaction Design Center (KLIC)** at **City University of Hong Kong** hosted a seminar titled *“Anthropomorphism and Biases in Human–AI Interaction.”* The talk was delivered by **Dr. Manuele Reani**, **Assistant Professor** at the **School of Management and Economics, The Chinese University of Hong Kong (Shenzhen)**.  
 
 The seminar examined how anthropomorphic design, the attribution of human-like characteristics to artificial systems, affects user perception, trust, and decision-making in interactions with AI.  
@@ -34,12 +32,9 @@ The second study explored how anthropomorphic design impacts trust and risk perc
 
 Dr. Reani concluded by discussing the implications of these findings for **responsible AI design**, emphasizing the importance of calibrating user trust and mitigating bias when developing anthropomorphic decision-support systems.  
 
----
-
 **Time:** November 6, 2025 (Thursday), 3:00–4:00 PM (BJT)  
 **Venue:** SM6058, City University of Hong Kong  
 
----
 
 ### About the Speaker  
 <p></p>
