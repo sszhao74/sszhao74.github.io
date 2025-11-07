@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20251107170838.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20251107170838.jpg" alt="" width="100%"/>
 </div>
 
 On **November 6, 2025**, the **Kowloon Interaction Design Center (KLIC)** at **City University of Hong Kong** hosted a seminar titled *“Anthropomorphism and Biases in Human–AI Interaction.”* The talk was delivered by **Dr. Manuele Reani**, **Assistant Professor** at the **School of Management and Economics, The Chinese University of Hong Kong (Shenzhen)**.  
@@ -22,7 +22,7 @@ On **November 6, 2025**, the **Kowloon Interaction Design Center (KLIC)** at **C
 The seminar examined how anthropomorphic design, the attribution of human-like characteristics to artificial systems, affects user perception, trust, and decision-making in interactions with AI.  
 <p></p>
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20251107170831.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20251107170831.jpg" alt="" width="100%"/>
 </div>
 <p></p>
 
@@ -39,7 +39,7 @@ Dr. Reani concluded by discussing the implications of these findings for **respo
 ### About the Speaker  
 <p></p>
 <div class="post_img">
-  <img src="/assets/img/posts/manuele-reani.jpg" alt="" width="250"/>
+  <img src="/assets/img/posts/manuele-reani.jpg" alt="" width="30%"/>
 </div>
 <p></p>
 Dr. Manuele Reani is an Assistant Professor at the School of Management and Economics, The Chinese University of Hong Kong (Shenzhen). His research focuses on Human–Computer Interaction, Cognitive Science, and AI Design, with particular interest in how intelligent systems influence human cognition, trust, and decision-making.  
