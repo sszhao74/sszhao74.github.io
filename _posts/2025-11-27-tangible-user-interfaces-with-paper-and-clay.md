@@ -12,14 +12,14 @@ images:
   spotlight: true
   venobox: true
 ---
-  <img src="/assets/img/posts/Image_20251127161905.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20251127161905.jpg" alt="" width="70%"/>
 <p></p>
 
 This week, the **Kowloon Interaction Design Center (KLIC)** hosted a session led by **Professor Zhu Kening** focused on **Tangible User Interfaces (TUI)**. The session explored how **paper and clay** can be used to create buttons and touch sensors.
 
 The session was designed to be **hands-on**, encouraging participants to engage with physical materials rather than working solely on screens. Students were invited to bring their **laptops**, preferably with **USB Type A ports or adapters**, to connect with the materials.
 <p></p>
-  <img src="/assets/img/posts/Image_20251127161915.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/Image_20251127161915.jpg" alt="" width="70%"/>
 <p></p>
 During the session, participants experimented with making physical components function as touch-sensitive inputs, gaining practical experience in TUI design. Professor Zhu guided attendees through the process of turning everyday materials into interactive elements, providing a tangible approach to understanding user interfaces.
 
