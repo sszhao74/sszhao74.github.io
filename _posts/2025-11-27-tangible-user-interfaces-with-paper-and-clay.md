@@ -26,6 +26,6 @@ During the session, participants experimented with making physical components fu
 This session is part of **KLIC’s bi-weekly activities**, which aim to create a collaborative and learning-focused environment for labs and students interested in Human–Computer Interaction.
 <p></p>
 
-##About the Speaker
+## About the Speaker
 
 **Professor Zhu Kening** is a faculty member at the **City University of Hong Kong**. His research focuses on **Human–Computer Interaction**, particularly in the areas of tangible user interfaces, interactive design, and hands-on learning methods. Professor Zhu has led multiple workshops and sessions on physical computing and TUI, providing students with practical experience in designing interactive systems.
