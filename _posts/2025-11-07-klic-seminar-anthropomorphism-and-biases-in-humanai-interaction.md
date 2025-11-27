@@ -12,18 +12,13 @@ images:
   spotlight: true
   venobox: true
 ---
-
-<div class="post_img">
-  <img src="/assets/img/posts/Image_20251107170838.jpg" alt="" width="100%"/>
-</div>
+<img src="/assets/img/posts/Image_20251107170838.jpg" alt="" width="100%"/>
 
 On **November 6, 2025**, the **Kowloon Interaction Design Center (KLIC)** at **City University of Hong Kong** hosted a seminar titled *“Anthropomorphism and Biases in Human–AI Interaction.”* The talk was delivered by **Dr. Manuele Reani**, **Assistant Professor** at the **School of Management and Economics, The Chinese University of Hong Kong (Shenzhen)**.  
 
 The seminar examined how anthropomorphic design, the attribution of human-like characteristics to artificial systems, affects user perception, trust, and decision-making in interactions with AI.  
 <p></p>
-<div class="post_img">
   <img src="/assets/img/posts/Image_20251107170831.jpg" alt="" width="100%"/>
-</div>
 <p></p>
 
 Dr. Reani presented findings from two complementary studies. The first introduced the **Fundamental Over-Attribution Error (FOE)**, a cognitive bias describing how users project human-like traits and intentions onto AI systems, particularly under risk and uncertainty. The study used multiple research methods, including experiments, surveys, and psychometric scale development, to establish FOE as a distinct construct that influences perceptions of AI reliability and intent.  
@@ -38,9 +33,7 @@ Dr. Reani concluded by discussing the implications of these findings for **respo
   
 ### About the Speaker  
 <p></p>
-<div class="post_img">
   <img src="/assets/img/posts/manuele-reani.jpg" alt="Dr. Manuele Reani" width="20%">
-</div>
 <p></p>
 Dr. Manuele Reani is an Assistant Professor at the School of Management and Economics, The Chinese University of Hong Kong (Shenzhen). His research focuses on Human–Computer Interaction, Cognitive Science, and AI Design, with particular interest in how intelligent systems influence human cognition, trust, and decision-making.  
 
