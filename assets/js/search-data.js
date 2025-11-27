@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-tangible-user-interfaces-with-paper-and-clay",
       
-        title: "",
+        title: "Tangible User Interfaces with Paper and Clay",
       
-      description: "",
+      description: "This week, KLIC hosted a hands-on session led by Professor Zhu Kening on TUI.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-11-27-tangible-user-interfaces-with-paper-and-clay/";
+          window.location.href = "/blog/2025/tangible-user-interfaces-with-paper-and-clay/";
         
       },
     },{id: "post-anthropomorphism-and-biases-in-human-ai-interaction",
