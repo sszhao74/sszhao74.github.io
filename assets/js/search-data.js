@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-anthropomorphism-and-biases-in-human-ai-interaction",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-11-27-tangible-user-interfaces-with-paper-and-clay/";
+        
+      },
+    },{id: "post-anthropomorphism-and-biases-in-human-ai-interaction",
       
         title: "Anthropomorphism and Biases in Human–AI Interaction",
       
