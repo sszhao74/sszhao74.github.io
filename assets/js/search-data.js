@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-tangible-user-interfaces-with-paper-and-clay",
+        },{id: "post-ai-vibe-coding-workshop",
+      
+        title: "AI (Vibe) Coding Workshop",
+      
+      description: "The AI (Vibe) Coding Workshop was held on Thursday, January 15, 2026, from 10:00 AM to 12:00 PM at SCM 4003, and was led by Cai Runze.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/ai-vibe-coding-workshop/";
+        
+      },
+    },{id: "post-tangible-user-interfaces-with-paper-and-clay",
       
         title: "Tangible User Interfaces with Paper and Clay",
       
