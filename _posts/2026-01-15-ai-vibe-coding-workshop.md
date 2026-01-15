@@ -14,7 +14,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20260115182651.jpg" alt="" width="1000"/>
+  <img src="/assets/img/Image_20260115182651.jpg" alt="" width="1000"/>
 </div>
 
 The AI (Vibe) Coding Workshop was held on Thursday, January 15, 2026, from 10:00 AM to 12:00 PM at SCM 4003, and was led by Cai Runze.
@@ -24,5 +24,5 @@ The two-hour session introduced participants to using large language models (LLM
 The workshop provided attendees with a repeatable workflow for turning ideas into functional prototypes through AI-assisted coding.
 
 <div class="post_img">
-  <img src="/assets/img/posts/Image_20260115180750.jpg" alt="" width="1000"/>
+  <img src="/assets/img/Image_20260115180750.jpg" alt="" width="1000"/>
 </div>
