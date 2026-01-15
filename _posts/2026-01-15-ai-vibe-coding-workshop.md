@@ -5,7 +5,7 @@ date: 2026-01-15
 description: The AI (Vibe) Coding Workshop was held on Thursday, January 15, 2026, from 10:00 AM to 12:00 PM at SCM 4003, and was led by Cai Runze.
 tags: research session
 categories: session
-thumbnail: assets/img/posts/Image_20260115182651.jpg
+thumbnail: assets/img/Image_20260115182651.jpg
 images:
   lightbox2: true
   photoswipe: true
