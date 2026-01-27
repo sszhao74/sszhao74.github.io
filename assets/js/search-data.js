@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-ai-vibe-coding-workshop",
+        },{id: "post-bi-weekly-meeting-on-behavior-change-research-in-hci",
+      
+        title: "Bi-weekly Meeting on Behavior Change Research in HCI",
+      
+      description: "KLIC held its bi-weekly meeting on January 26, from 10:00 AM to 12:00 PM, marking the resumption of KLIC meetings for the semester.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/klic-bi-weekly-meeting-on-behavior-change-research-in-hci/";
+        
+      },
+    },{id: "post-ai-vibe-coding-workshop",
       
         title: "AI (Vibe) Coding Workshop",
       
