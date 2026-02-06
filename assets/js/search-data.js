@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-bi-weekly-meeting-on-behavior-change-research-in-hci",
+        },{id: "post-talk-on-society-centred-ai-by-dr-kenny-choo",
+      
+        title: "Talk on Society-Centred AI by Dr. Kenny Choo",
+      
+      description: "Dr. Kenny Choo, Assistant Professor at the Singapore University of Technology and Design (SUTD), delivered a talk",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/talk-on-society-centred-ai-by-dr-kenny-choo/";
+        
+      },
+    },{id: "post-bi-weekly-meeting-on-behavior-change-research-in-hci",
       
         title: "Bi-weekly Meeting on Behavior Change Research in HCI",
       
