@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-klic-meeting-explores-practical-strategies-for-better-visualizations",
+        },{id: "post-practical-strategies-for-better-visualizations",
       
-        title: "KLIC Meeting Explores Practical Strategies for Better Visualizations",
+        title: "Practical Strategies for Better Visualizations",
       
       description: "The second KLIC meeting of the semester was held on Monday, February 9",
       section: "Posts",
