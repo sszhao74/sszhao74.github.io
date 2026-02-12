@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-talk-on-society-centred-ai-by-dr-kenny-choo",
+        },{id: "post-klic-meeting-explores-practical-strategies-for-better-visualizations",
+      
+        title: "KLIC Meeting Explores Practical Strategies for Better Visualizations",
+      
+      description: "The second KLIC meeting of the semester was held on Monday, February 9",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/klic-meeting-explores-practical-strategies-for-better-visualizations/";
+        
+      },
+    },{id: "post-talk-on-society-centred-ai-by-dr-kenny-choo",
       
         title: "Talk on Society-Centred AI by Dr. Kenny Choo",
       
