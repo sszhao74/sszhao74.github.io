@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KLIC Meeting Explores Practical Strategies for Better Visualizations
+title: Practical Strategies for Better Visualizations
 date: 2026-02-09
 description: The second KLIC meeting of the semester was held on Monday, February 9
 tags: research session
