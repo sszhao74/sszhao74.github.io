@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-practical-strategies-for-better-visualizations",
+        },{id: "post-grant-application-sharing-session",
+      
+        title: "Grant Application Sharing Session",
+      
+      description: "A Grant Application Sharing Session was held on February 25, from 10:00 AM to 12:00 noon at SM6058.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/grant-application-sharing-session/";
+        
+      },
+    },{id: "post-practical-strategies-for-better-visualizations",
       
         title: "Practical Strategies for Better Visualizations",
       
