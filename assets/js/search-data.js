@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-grant-application-sharing-session",
+        },{id: "post-seminar-on-research-prototyping-and-ai-coding",
+      
+        title: "Seminar on Research Prototyping and AI Coding",
+      
+      description: "The Kowloon Interaction Design Center (KLIC) held a seminar on March 9, from 10:00 AM to 12:00 PM, at CMC 6058.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/seminar-on-research-prototyping-and-ai-coding/";
+        
+      },
+    },{id: "post-grant-application-sharing-session",
       
         title: "Grant Application Sharing Session",
       
