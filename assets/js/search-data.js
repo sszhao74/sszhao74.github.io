@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-liqmetcraft-hands-on-workshop",
-      
-        title: "LiqMetCraft Hands-on Workshop",
-      
-      description: "The Kowloon Interaction Design Center (KLIC) held a hands-on session this morning (March 23) at 10:00 AM in M4003 (Level 4, CMC), featuring the LiqMetCraft toolkit.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/liqmetcraft-hands-on-workshop/";
-        
-      },
-    },{id: "post-seminar-on-research-prototyping-and-ai-coding",
+        },{id: "post-seminar-on-research-prototyping-and-ai-coding",
       
         title: "Seminar on Research Prototyping and AI Coding",
       
