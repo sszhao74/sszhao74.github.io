@@ -32,9 +32,9 @@ ninja.data = [{
           },
         },{id: "post-liqmetcraft-hands-on-workshop",
       
-        title: "Liqmetcraft Hands On Workshop",
+        title: "LiqMetCraft Hands-on Workshop",
       
-      description: "",
+      description: "The Kowloon Interaction Design Center (KLIC) held a hands-on session this morning (March 23) at 10:00 AM in M4003 (Level 4, CMC), featuring the LiqMetCraft toolkit.",
       section: "Posts",
       handler: () => {
         
