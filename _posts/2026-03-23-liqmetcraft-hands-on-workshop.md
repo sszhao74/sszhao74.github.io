@@ -12,8 +12,8 @@ images:
   venobox: true
 ---
 
-<div class="post\\\_img">
-  <img src="/assets/img/posts/Image\\\_20260323164652.jpg" alt="" width="1000"/>
+<div class="post_img">
+  <img src="/assets/img/posts/Image_20260323164652.jpg" alt="" width="1000"/>
 </div>
 
 The Kowloon Interaction Design Center (KLIC) held a hands-on session this morning (March 23) at 10:00 AM in M4003 (Level 4, CMC), featuring the LiqMetCraft toolkit.
@@ -22,8 +22,8 @@ LiqMetCraft is a toolkit for creating electronics-embedded papercrafts through a
 
 During the session, participants were introduced to the toolkit and its design approach, which combines software interfaces for papercraft design with physical materials for prototyping. The workshop included a demonstration, followed by hands-on activities where attendees created paper circuits using the materials.
 
-<div class="post\\\_img">
-  <img src="/assets/img/posts/Image\\\_20260323164703.jpg" alt="" width="1000"/>
+<div class="post_img">
+  <img src="/assets/img/posts/Image_20260323164703.jpg" alt="" width="1000"/>
 </div>
 
 The toolkit, developed by Qi Zhang, Shuwen Jiang, Zeshui Li, and Kening Zhu, will be presented at CHI. The session provided participants with an opportunity to explore an alternative workflow for prototyping interactive paper-based designs.
