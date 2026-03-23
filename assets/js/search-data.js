@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-seminar-on-research-prototyping-and-ai-coding",
+        },{id: "post-liqmetcraft-hands-on-workshop",
+      
+        title: "Liqmetcraft Hands On Workshop",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/liqmetcraft-hands-on-workshop/";
+        
+      },
+    },{id: "post-seminar-on-research-prototyping-and-ai-coding",
       
         title: "Seminar on Research Prototyping and AI Coding",
       
