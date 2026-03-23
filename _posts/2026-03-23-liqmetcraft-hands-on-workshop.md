@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KLIC Session Features LiqMetCraft Hands-on Workshop
+title: LiqMetCraft Hands-on Workshop
 date: 2026-03-23
 description: The Kowloon Interaction Design Center (KLIC) held a hands-on session this morning (March 23) at 10:00 AM in M4003 (Level 4, CMC), featuring the LiqMetCraft toolkit.
 categories: session
