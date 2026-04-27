@@ -21,15 +21,7 @@ Three student projects developed from the SM6351 Information Visualization cours
 The shortlisted projects include “Hidden Information Behind Fancy Words: A Comparative Data-Driven Analysis of ESG Reports” by Weiqi Han, Yupu Chen, Yunzhong Luo, and Xiaoyu Zhang; “A Cat's Day” by Aoshuang Zhang, Wenxuan Gu, Yu Zhong, Jinghong Lin, and Xiaoyu Zhang; and “Twin City Tales: Lives Across the Shenzhen–Hong Kong Border” by Mingxi Li, Lu Junchi, and Yiwei Zhou.
 
 <div class="post_img">
-  <img src="/assets/img/posts/IMG_7465.jpeg" alt="" width="1000"/>
-</div>
-
-<div class="post_img">
-  <img src="/assets/img/posts/IMG_7504.jpg" alt="" width="1000"/>
-</div>
-
-<div class="post_img">
-  <img src="/assets/img/posts/IMG_74861.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/pacific-vista-entries.jpg" alt="" width="1000"/>
 </div>
 
 Two teams presented their work on-site in Sydney, while one team presented virtually. Among the entries, “Hidden Information Behind Fancy Words: A Comparative Data-Driven Analysis of ESG Reports” received an Honorable Mention, placing among the top entries in the competition.
