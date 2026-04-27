@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-liqmetcraft-hands-on-workshop",
+        },{id: "post-student-projects-recognized-at-pacificvis-2026-storytelling-contest",
+      
+        title: "Student Projects Recognized at PacificVis 2026 Storytelling Contest",
+      
+      description: "Three student projects developed from the SM6351 Information Visualization course were shortlisted for the Visual Data Storytelling Contest at PacificVis 2026.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/student-projects-recognized-at-pacificvis-2026-storytelling-contest/";
+        
+      },
+    },{id: "post-liqmetcraft-hands-on-workshop",
       
         title: "LiqMetCraft Hands-on Workshop",
       
