@@ -4,7 +4,7 @@ title: Student Projects Recognized at PacificVis 2026 Storytelling Contest
 date: 2026-04-27
 description: Three student projects developed from the SM6351 Information Visualization course were shortlisted for the Visual Data Storytelling Contest at PacificVis 2026.
 categories: Awards & Recognition
-thumbnail: assets/img/posts/pacific-vista-115.jpg
+thumbnail: assets/img/posts/pacific-vista-115.JPG
 images:
   lightbox2: true
   photoswipe: true
@@ -13,7 +13,7 @@ images:
 ---
 
 <div class="post_img">
-  <img src="/assets/img/posts/pacific-vista-115.jpg" alt="" width="1000"/>
+  <img src="/assets/img/posts/pacific-vista-115.JPG" alt="" width="1000"/>
 </div>
 
 Three student projects developed from the SM6351 Information Visualization course were shortlisted for the Visual Data Storytelling Contest at PacificVis 2026. The projects are featured on the [official contest website](https://visstory.github.io/).
