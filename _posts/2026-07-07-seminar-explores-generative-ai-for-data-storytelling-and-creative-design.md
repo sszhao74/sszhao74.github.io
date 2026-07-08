@@ -24,6 +24,6 @@ The talk presented a dual-perspective research framework of Controllable Intelli
   <img src="/assets/img/posts/Image_20260708202347.jpg" alt="" width="1000"/>
 </div>
 
-About the Speaker
 
-Dr. Qing Chen is an Associate Professor at the School of Design and Innovation, Tongji University. Her research focuses on data storytelling, information visualization, computational creativity, and human–AI co-creation. She has led research projects funded by the National Natural Science Foundation of China and has collaborated with industry partners including Alibaba, Ant Group, Tencent, and Zhipu AI.
+### About the Speaker
+**Dr. Qing Chen** is currently an Associate Professor at **School of Design and Innovation, Tongji University**, entitled in the Shanghai Chenguang Program. Before joining Tongji, she worked as a postdoc researcher at INRIA and École Polytechnique. She holds a Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology. She received several awards including the CSIG Natural Science Award, Hong Kong ICT Best Innovation Silver Award, and Asia Pacific ICT Awards. She works as the committee member of various top conferences and the community chair for IEEE VIS 2022-2023. Her work has been exhibited at Dutch Design Week, Milan Design Week, among others, and have been covered by mainstream media outlets such as Shanghai Education Television and People's Daily. She leads multiple projects funded by the National Natural Science Foundation of China, as well as industry-academia collaborations with companies such as Alibaba, Ant Group, Tencent, and Zhipu AI.
