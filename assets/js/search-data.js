@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-seminar-explores-generative-ai-for-data-storytelling-and-creative-design",
       
-        title: "",
+        title: "Seminar Explores Generative AI for Data Storytelling and Creative Design",
       
-      description: "",
+      description: "On July 7, 2026, Dr. Qing Chen, Associate Professor at the School of Design and Innovation, Tongji University, delivered a seminar titled &quot;Controllable and Inspirational Intelligence Generative AI for Data Storytelling and Creative Design.&quot;",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2026-07-07-seminar-explores-generative-ai-for-data-storytelling-and-creative-design/";
+          window.location.href = "/blog/2026/seminar-explores-generative-ai-for-data-storytelling-and-creative-design/";
         
       },
     },{id: "post-student-projects-recognized-at-pacificvis-2026-storytelling-contest",
