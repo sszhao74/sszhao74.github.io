@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-student-projects-recognized-at-pacificvis-2026-storytelling-contest",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/2026-07-07-seminar-explores-generative-ai-for-data-storytelling-and-creative-design/";
+        
+      },
+    },{id: "post-student-projects-recognized-at-pacificvis-2026-storytelling-contest",
       
         title: "Student Projects Recognized at PacificVis 2026 Storytelling Contest",
       
