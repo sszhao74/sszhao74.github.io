@@ -2,7 +2,7 @@
 layout: post
 title: Seminar Explores Generative AI for Data Storytelling and Creative Design
 date: 2026-07-07
-description: On July 7, 2026, Dr. Qing Chen, Associate Professor at the School of Design and Innovation, Tongji University, delivered a seminar titled "Controllable and Inspirational Intelligence: Generative AI for Data Storytelling and Creative Design."
+description: On July 7, 2026, Dr. Qing Chen, Associate Professor at the School of Design and Innovation, Tongji University, delivered a seminar titled Controllable and Inspirational Intelligence: Generative AI for Data Storytelling and Creative Design.
 categories: Regular Seminar
 thumbnail: assets/img/posts/Image_20260708202406.jpg
 images:
